@@ -7,10 +7,10 @@ As I understood this project we were supposed to create a level of the game from
 
 as for sources used in the creation of this assignment  or works cited 
 
-Google, Google, https://drive.google.com/file/d/1vcFiUe2jRSq6SEiEQs1H_nsnf7L3HmKU/view. Accessed 28 Sept. 2021.  (the labs are this file and 
-Google, Google, https://drive.google.com/file/d/1z0ISvnfH_emKXadlGMeZi1zPPe_N-WgI/view. Accessed 28 Sept. 2021.  this file)
-the rest is useful videos I found on topics I needed to be able to do to complete this assignment.
-PleaseStopUs, director. YouTube, YouTube, 10 June 2020, https://www.youtube.com/watch?v=t1_HUWvme_w. Accessed 28 Sept. 2021. 
-PleaseStopUs, director. YouTube, YouTube, 6 June 2020, https://www.youtube.com/watch?v=AtiBYLTxzPA. Accessed 28 Sept. 2021. 
-YouTube, YouTube, 24 Feb. 2021, https://www.youtube.com/watch?v=hkMo59axs6A&amp;t=3s. Accessed 28 Sept. 2021. 
-YouTube, YouTube, 26 Feb. 2021, https://www.youtube.com/watch?v=kvqE75oLjiI. Accessed 28 Sept. 2021. 
+Google. (n.d.). Google. Retrieved September 28, 2021, from https://drive.google.com/file/d/1vcFiUe2jRSq6SEiEQs1H_nsnf7L3HmKU/view. 
+Google. (n.d.). Google. Retrieved September 28, 2021, from https://drive.google.com/file/d/1z0ISvnfH_emKXadlGMeZi1zPPe_N-WgI/view. 
+Patryk Galach. (2020, March 16). How to pick up items in Unity? Patryk Galach. Retrieved September 30, 2021, from https://www.patrykgalach.com/2020/03/16/pick-up-items-in-unity/. 
+YouTube. (2020). YouTube. Retrieved September 28, 2021, from https://www.youtube.com/watch?v=AtiBYLTxzPA. 
+YouTube. (2020). YouTube. Retrieved September 28, 2021, from https://www.youtube.com/watch?v=t1_HUWvme_w. 
+YouTube. (2021). YouTube. Retrieved September 28, 2021, from https://www.youtube.com/watch?v=hkMo59axs6A&amp;t=3s. 
+YouTube. (2021). YouTube. Retrieved September 28, 2021, from https://www.youtube.com/watch?v=kvqE75oLjiI. 
